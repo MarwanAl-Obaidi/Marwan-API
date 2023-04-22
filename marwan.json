@@ -1,0 +1,45 @@
+{
+    "firstname": "Marwan",
+    "lastname": "Al-Obaidi",
+    "birthdate": 916696800,
+    "image": "https://marwanapi.onrender.com/marwan.jpg",
+    "portfolio": "https://github.com/MarwanAl-Obaidi",
+    "skills": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Node.js",
+        "React.js",
+        "APIs",
+        "Postman",
+        "MongoDB",
+        "Unity",
+        "Blender"
+    ],
+    "projectsdone": [
+        {
+            "title": "Flight Tracker",
+            "description": "Flight Tracker App for our innovation project.",
+            "repository": "https://github.com/MarwanAl-Obaidi/Flight-Tracker"
+        },
+        {
+            "title": "Current Weather App",
+            "description": "Testing APIs with openweathermap.org and React.js as frontend",
+            "repository": "https://github.com/MarwanAl-Obaidi/Current-Weather-App"
+        }
+    ],
+    "otherinfo": {
+        "favoritefood": {
+            "name": "Chicken TENDERCRISP",
+            "link": "https://burgerking.fi/tuote/chicken-tendercrisp/"
+        },
+        "favoritedrink": {
+            "name": "Frappuccino",
+            "link": "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverages"
+        },
+        "favoritecolor": {
+            "name": "Blue",
+            "link": "https://htmlcolorcodes.com/colors/blue/"
+        }
+    }
+}
