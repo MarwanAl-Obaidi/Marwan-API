@@ -24,8 +24,23 @@
         },
         {
             "title": "Current Weather App",
-            "description": "Testing APIs with openweathermap.org and React.js as frontend",
+            "description": "Testing APIs with openweathermap.org and React.js as frontend.",
             "repository": "https://github.com/MarwanAl-Obaidi/Current-Weather-App"
+        },
+        {
+            "title": "FFXIV Lodestone Search",
+            "description": "A Lodestone search web app for FINAL FANTASY XIV Online (FFXIV) using ReactJS.",
+            "repository": "https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search"
+        },
+        {
+            "title": "Slot Machine",
+            "description": "Slot machine made in ReactJS.",
+            "repository": "https://github.com/MarwanAl-Obaidi/Slot-Machine"
+        },
+        {
+            "title": "VR Zoo",
+            "description": "VR Zoo project made in Unity for a 3D modelling course.",
+            "repository": "https://github.com/DanielRadvanyi/VR-Zoo"
         }
     ],
     "otherinfo": {
